@@ -9,6 +9,8 @@ fig-caption: "Imagen de Sentinel-2 Level-2A Surface Reflectance Product (bandas 
 
 El libro electrónico en formato epub de este cuento está disponible [aquí](https://drive.google.com/file/d/1NbzIxwg1zSA38MMi0gAzU-CEh8ONf7si/view?usp=sharing) para su descarga.
 
+---
+
 El viento irrumpe, iracundo, por las ventanas y la puerta del aula, trayendo el aroma a humedad y formol de los laboratorios contiguos. Cada partícula de aire transporta una amalgama de recuerdos álgidos que se van anunciando desde la neblinosa montaña. «¿Habré hecho yo algo mal?», se pregunta William, atrapado en su pupitre y en íntegra contemplación hacia la montaña, mientras el frío se le mete en los huesos.
 
 La voz del profesor de biología celular es una cacofonía reverberante en toda el aula. —De esta forma, jóvenes —describe—, la quinasa CDK3 queda inhibida entonces por la p21, que es estimulada a través de la p53 si hay daño en el DNA, inhibiendo el paso desde la fase G1 hasta la de síntesis, o sea, la fase S. ¿Sí entienden?
