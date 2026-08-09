@@ -2,6 +2,7 @@
 layout: post
 title: Al otro lado de la montaña
 date: 2026-08-06 12:03:00 -0400
+description: Una historia sobre el colapso académico, el peso de los recuerdos y la búsqueda de sentido.
 img: 2026-02-12-00_00_2026-02-12-23_59_Sentinel-2_L2A_True_color.png
 fig-caption: "Imagen de Sentinel-2 Level-2A Surface Reflectance Product (bandas en color real RGB) centrado en las coordenadas -66.17752, 10.45338. Aumento: 10. Fecha de la imagen: 12 de febrero de 2026. Copernicus Data Space Ecosystem. https://browser.dataspace.copernicus.eu/"
 ---
