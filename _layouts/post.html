@@ -19,6 +19,10 @@ layout: main
         <h1 class="page-title">{{page.title}}</h1>
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
+      {% if page.epub_url %}
+           <p class="epub-notice"> El libro electrónico en formato epub de este cuento está disponible  <a href="{{ page.epub_url | prepend: site.baseurl }}">aquí</a> para su descarga.</p>
+           <hr>
+      {% endif %}
       {{content | markdownify}}
       <div class="page-footer">
         <div class="page-tag">
